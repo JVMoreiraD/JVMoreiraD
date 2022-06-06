@@ -1,6 +1,5 @@
 ### Bom dia, Boa tarde e Boa noite, meu nome é João
-## Atualmente um estudante de Ciencia da Computação no IFCE campus Maracanau
-
+Atualmente cursando Ciencia da Computação no IFCE e estagiando no Laboratorio de Telematica, Acessebilidade e Projetos Educacionais(LTAP).
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Atualmente estudando node.js e Typescript
