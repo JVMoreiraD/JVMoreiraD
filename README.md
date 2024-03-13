@@ -1,14 +1,10 @@
-### Bom dia, Boa tarde e Boa noite, meu nome é João
-Atualmente cursando Ciencia da Computação no IFCE.
+#Meu nome é João Vitor mas a maioria das pessoas me chamam de Moreira.
+
+Atualmente estou fazendo meu TCC para me formar em ciencia da computação no IFCE. Vai ser um projetinho utilizando Golang e provavelmente React.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Atualmente estudando node.js e Typescript
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
+- 🌱 Atualmente terminando o bacharel e procurando um emprego.
+
 
 <div align="center">
   <a href="https://github.com/JVMoreiraD">
