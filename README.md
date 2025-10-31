@@ -1,9 +1,11 @@
 #Meu nome é João Vitor mas a maioria das pessoas me chamam de Moreira.
 
 Atualmente estou fazendo meu TCC para me formar em ciencia da computação no IFCE. Vai ser um projetinho utilizando Golang e provavelmente React.
+Trabalhando com python na area de automação de sistemas e utilizando ferramentas de observação como grafana e loki.
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Atualmente terminando o bacharel e procurando um emprego.
+- Terminando Bacharel
+- Atualmente trabalhando com automação de sistemas
 
 
 <div align="left">
