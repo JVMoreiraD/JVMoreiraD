@@ -10,5 +10,5 @@ Trabalhando com python na area de automação de sistemas e utilizando ferrament
 
 <div align="left">
   <a href="https://github.com/JVMoreiraD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVMoreiraD&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JVMoreiraD&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
